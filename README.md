@@ -18,7 +18,7 @@ I am a Mobile (flutter/android) Developer <img src="https://media.giphy.com/medi
 
 - 💻 I Love Programming.
 - 🍂 I’m looking for help with finding projects to contribute to!.
-- 🍩 Fun fact: I love Mechanical Keyboards!
+
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,cpp,git,arduino,androidstudio,)](https://skillicons.dev)
